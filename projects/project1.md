@@ -15,6 +15,7 @@ There are header and footer elements defined in the CSS.  They should be used! U
 Now you should be ready to create a list of inveztments. For now, all that you want to show in that list is the name of the investment, the name of the firm that holds the investment, and the [AUM of the investment](https://www.investopedia.com/terms/a/aum.asp).
 
 Here's some sample data you can use:
+```
 | Investment                       | Firm                    | AUM      |
 | -------------------------------- | ----------------------- | -------- |
 | Pear Leopard Fund                | Kikuchi & Bartoloni LLP | 1200000  |
@@ -25,6 +26,7 @@ Here's some sample data you can use:
 | Cerise Caribbean Flamingo Fund   | Kikuchi & Bartoloni LLP | 12003123 |
 | Prussian Blue Geese Fund         | Dupuis & Giannoni Ltd.  | 2098123  |
 | Taupe Radiated Tortoise Fund     | Kikuchi & Bartoloni LLP | 4320121  |
+```
 
 A few notes you should probably take into account:
 - A list on an HTML page doesn't always have to use the ul, ol, and li elements. It can, but it doesn't have to.
