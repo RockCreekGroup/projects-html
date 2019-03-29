@@ -10,6 +10,21 @@ All you need to get moving with this project is the following:
 3. Ideally, a code editor. We like [Visual Studio Code](https://code.visualstudio.com/). You should use that unless you have a good reason not to.
 4. A web browser. This is HTML, after all. Again, we're somewhat opinionated; [Chrome](https://www.google.com/chrome/) gives you the [best developer tools](https://developers.google.com/web/tools/chrome-devtools/) and [integrates well with VS Code](https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code).
 
+## What Do You Need to Know?
+HTML. But you don't need to be an expert, or even that great. You should be familiar enough with HTML that you're comfortable using Google to figure out what you don't know. (Seriously. That's what all good engineers do: reserve their memory for abstract concepts, architectural constructs, and Game of Thrones trivia. Programming syntax takes up space that can be much better used.)
+
+CSS. Even though you won't be writing any CSS (well, you shouldn't be) for this set of projects, you will need to look at some CSS. You should be comfortable understanding what CSS is and how it is applied to HTML elements. So if this looks scary:
+
+```html
+<table class="investments condensed">
+  <tr class="highlight">
+    <!-- Columns would go here -->
+  </tr>
+</table>
+```
+
+–you may want to come back to this project later in your web programming journey.
+
 ## How to Work with this Repository
 It's really important that you are able to follow directions. At some point you'll have to think creatively, but sometimes, it's good to just be precise and exact in following a set of steps. This is one of those times.
 
