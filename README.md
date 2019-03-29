@@ -27,6 +27,6 @@ Permissions should be set in such a way that you can't do this, but we'll also s
 Remember: it's all a learning experience. And for this experience, we want to preserve this initial state of the repository for everyone else to use in the same manner.
 
 ## Working on a Project
-When you're ready, you should go to the [projects/]() directory. Inside, you'll find several [Markdown files](https://guides.github.com/features/mastering-markdown/). Each of these represents a project, in rising difficult. So project1 is the easiest, and where you should start. (And yes, if it's painfully easy, then you should do it, do it well, and do it quickly. Don't skip!)
+When you're ready, you should go to the [projects/](https://github.com/RockCreekGroup/projects-html/tree/master/projects) directory. Inside, you'll find several [Markdown files](https://guides.github.com/features/mastering-markdown/). Each of these represents a project, in rising difficult. So project1 is the easiest, and where you should start. (And yes, if it's painfully easy, then you should do it, do it well, and do it quickly. Don't skip!)
 
 Each project will have further instructions. Have fun, and ask us for help. We're here and available.
